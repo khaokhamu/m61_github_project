@@ -1,4 +1,4 @@
 # m61_github_project
-[bmi](bmi.py)
-[electric](electric_bill.py)
-[salary](salary.py)
+[bmi](bmi.py) /n
+[electric](electric_bill.py) /n
+[salary](salary.py) /n
